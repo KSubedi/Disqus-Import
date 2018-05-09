@@ -44,6 +44,8 @@ class DisqusImportAdmin {
             
         echo '
             </form>
+            <hr>
+            <h5>Created by <a href="https://kaushalsubedi.com" target="_blank">Kaushal Subedi</a>.</h5>
         ';
     }
 
