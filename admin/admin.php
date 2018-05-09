@@ -34,7 +34,7 @@ class DisqusImportAdmin {
             <form  method=\"post\" enctype=\"multipart/form-data\">
                     <input type='file' id='disqus_xml' name='disqus_xml'></input>
                     <br><br>
-                    Regex For Links:
+                    Regex For Links (Optional):
                     <input type='text' id='regex' name='regex'></input>
 
             ";
