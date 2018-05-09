@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name:  Disqus Importer
-Plugin URI:   https://kaushalsubedi.com/
 Description:  Imports Disqus Plugins
 Version:      1.0
 Author:       Kaushal Subedi
